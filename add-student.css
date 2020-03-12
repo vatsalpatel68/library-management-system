@@ -1,0 +1,55 @@
+.librarian-page{
+    display: block;
+}
+
+#librarian-name{
+    display:none;
+}
+
+hr{
+    display:none;
+}
+
+.login-button2{
+    display:none;
+}
+
+#logout{
+    display: block;
+}
+
+
+.student-input-field{
+    height:50px;
+    margin-top:20px;
+    width:500px;
+    margin-left: 30px;
+    color:black;
+    font-size: 30px;
+    border-top-style: none ;
+    border-left-style:none;
+    border-right-style:none;
+    
+}
+
+.add-student-class{
+    font-size:50px;
+    margin-bottom:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 2px solid grey;
+}
+
+.information{
+    height:700px;
+    width:700px;
+    position:relative;
+    left:50%;
+    margin-top:-150px;
+    margin-left:-100px;
+}
+
+.content{
+    padding-top: 30px;
+    font-size: 40px;
+    color:	#000d33
+}

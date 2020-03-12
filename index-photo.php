@@ -1,0 +1,1 @@
+<img class='index-image' src='indexphoto.png' alt = 'index image' />

@@ -1,0 +1,23 @@
+.librarian-login{
+    display: none;
+}
+
+.librarian-page{
+    display: flex;
+}
+
+#librarian-name{
+    display:none;
+}
+
+hr{
+    display:none;
+}
+
+.login-button2{
+    display:none;
+}
+
+#logout{
+    display: block;
+}

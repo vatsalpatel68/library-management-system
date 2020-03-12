@@ -1,0 +1,83 @@
+.index-image{
+    display: none;   
+}
+
+@media only screen and (min-width:768px)
+{
+
+    /*.login-form{
+        display:none;/* change to block or none. in librarianlogin_index.js 
+        }
+    */
+    .librarian-page{
+        margin-left:50px;
+        margin-right:50px;
+        margin-top:10px;
+        width:auto;
+        height:auto;
+        
+        display: none;/*display:none or flex*/
+    }
+    
+    .librarian-list{
+        list-style: none;
+    }
+
+    .container-1{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top:50px;
+        margin-bottom:50px;
+        height:300px;
+        width:499px;
+        box-shadow: 
+        inset 0.3em 0.3em 1em rgba(0,0,0,0.3), 
+              0.3em 0.3em 1em rgba(0,0,0,0.3),
+              0.3em 0.3em 1em rgba(0,0,0,0.3);
+        float: left;
+    }
+
+    .click-button{
+        display: none;
+    }
+
+    .container-1:hover{
+        box-shadow: 
+        inset 0.3em 0.3em 1em #ffb3b3, 
+              0.3em 0.3em 1em #ffb3b3,
+              0.3em 0.3em 1em #ffb3b3;
+    }
+
+    .photo{
+        margin:5px 10px;
+        height:240px;
+        width:auto;
+        
+    }
+
+    .text{
+        width:auto;
+        text-align: center;
+        height:45px;
+        line-height:50px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 30px;
+        color: black;
+    }
+
+    .image{
+        height:240px;
+        width:479px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,132 @@
+.container-student-panel{
+    margin-top:30px;
+    margin-left:30px;
+    width:400px;
+    height:700px;
+    list-style: none;
+}
+
+.student-list-item{
+    margin-top:50px;
+    margin-left:10px;
+    font-size: 50px;
+    border:2px solid black;
+    box-shadow: 
+    inset 0.3em 0.3em 1em rgba(0,0,0,0.3), 
+          0.3em 0.3em 1em rgba(0,0,0,0.3),
+          0.3em 0.3em 1em rgba(0,0,0,0.3);
+    padding: 10px;
+    color:#331400;
+}
+
+.issue-book-list{
+    width:600px;
+    margin-top:-700px;
+    margin-right:200px;
+    
+    height:700px;
+    float:right;
+    clear: right;
+}
+
+label{
+    font-size: 30px;
+    padding-top: 100px;
+    padding-right: 30px;
+    
+}
+
+.selective-list{
+    height:50px;
+    width:50px;
+    font-size: 30px;
+}
+
+.radio-button{
+    width:20px;
+    height:20px;
+    
+}
+
+.login-button2{
+    display: none;
+}
+
+#logout{
+    display: block;
+}
+
+table,.book-data,.table-header{
+    border : 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: large;
+}
+
+#book-table{
+    width:700px;
+    margin-top:50px;
+}
+
+.enter-book-heading{
+    margin-top:30px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 2px solid grey;
+}
+
+.book_input_id{
+    height: 50px;
+    margin-top: 20px;
+    width: 500px;
+    margin-left: 30px;
+    color: black;
+    font-size: 30px;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+
+}
+
+.submit-button{
+    width:200px;
+}
+
+.error{
+    height:150px;
+    text-align: center;
+    line-height:150px;
+    color: crimson;
+    font-size: 40px;
+}
+
+.success{
+    height:150px;
+    text-align: center;
+    line-height:150px;
+    color: green;
+    font-size: 40px;
+}
+
+.student-issue-container2{
+    height:auto;
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 500px;
+}
+
+.student-issue-container2{
+    width:80%;
+    margin-left:20px;
+}
+
+#book-table{
+    width:80%;
+    margin-left: 10%;
+}
+
+.student-issue-container3{
+    margin-top:-600px;
+    margin-left:500px;  
+}
